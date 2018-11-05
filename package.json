@@ -1,7 +1,7 @@
 {
-  "name": "jspdf",
-  "version": "1.4.1",
-  "homepage": "https://github.com/mrrio/jspdf",
+  "name": "jspdf-extended",
+  "version": "1.4.2",
+  "homepage": "https://github.com/VladislavLobakh/jsPDF",
   "description": "PDF Document creation from JavaScript",
   "main": "dist/jspdf.min.js",
   "files": [
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrRio/jsPDF.git"
+    "url": "https://github.com/VladislavLobakh/jsPDF.git"
   },
   "dependencies": {
-    "canvg": "1.5.3",
+    "canvg": "1.5.4",
     "cf-blob.js": "0.0.1",
     "file-saver": "1.3.8",
     "html2canvas": "1.0.0-alpha.12",
